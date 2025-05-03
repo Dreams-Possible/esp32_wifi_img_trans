@@ -1,3 +1,6 @@
 # esp32_wifi_img_trans
 ESP32WiFi图传系列。
 受限于上传大小限制，组件中的esp32-camera和lvgl需自行下载。
+camera是摄像头图传
+img是rgb565图像图传
+lvgl是lvgl图形库图传
